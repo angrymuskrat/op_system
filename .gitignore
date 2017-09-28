@@ -41,6 +41,8 @@
 *.su
 *.idb
 *.pdb
+*.cmake
+*.make
 
 # Kernel Module Compile Results
 *.mod*
